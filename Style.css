@@ -1,0 +1,26 @@
+#marquee {
+    background-color: aqua;
+}
+
+#Img{
+    margin-top: 10px;
+    width: 1500px;
+    height: 600px;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 30px;
+}
+#Line{
+    height: 20px;
+    width: 20%;
+    color: black;
+}
+#Image{
+    margin-left: 70px;
+    width: 30%;
+    height: 35%;
+}
+#Contact-right{
+    float: right;
+    margin-right:100px;
+}
